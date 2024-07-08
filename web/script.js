@@ -1,4 +1,3 @@
-document.getElementById('myButton').addEventListener('click', function() {
-    alert('Кнопка нажата!');
-});
-
+function показатьСообщение() {
+    alert("Привет! Вы нажали на кнопку.");
+}
